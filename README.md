@@ -1,7 +1,13 @@
 # witchQuery
 
-[Try it out!](https://play.google.com/store/apps/details?id=ca.shehryar.witchQuery)  
-This app is for an English summative assignment.The purpose of this application is to emphasize the theme of supernatural powers in the play of Macbeth.
+[Try it out on mobile!](https://play.google.com/store/apps/details?id=ca.shehryar.witchQuery)  
+[Try it out on desktop!](https://swamp-walrus.glitch.me)  
+
+This app is for an English summative assignment.The purpose of this application is to emphasize the theme of supernatural powers in 
+the play of Macbeth by William Shakeseare. The Ionic 2.0 Framework was used to create a platform for mobile display along with a
+browser one too. It has helped speed up the development process by a significant timeframe, considering this project had the timeline
+of six days.
+
 
 # Installation
 [Install Node.js](https://nodejs.org/en/)   
@@ -10,6 +16,7 @@ This app is for an English summative assignment.The purpose of this application 
 
 You can run the app using a local web server at [localhost](localhost:8080) after the following commands:  
 `cd /..project directory../`    
+`ionic state restore`  
 `ionic serve`   
 
 # Screenshots
